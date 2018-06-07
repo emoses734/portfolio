@@ -1,0 +1,41 @@
+
+.center {
+  display: block;
+  margin: 20px auto;
+}
+footer {
+  background-color: #343a40!important;
+  color: #999c99;
+  padding: 25px;
+
+}
+figcaption {
+  text-align: center;
+}
+.extra-margin {
+  margin: 50px 0px;
+}
+.pic-text {
+  padding-top: 50px;
+}
+.btn-primary {
+  background-color:#343a40;
+  color: #999c99;
+  border-color:#343a40;
+}
+
+.card {
+  margin: 25px;
+  padding: 10px;
+  box-shadow: 0px 0px 5px 0 grey;
+  /* This creates a gradient shadow underneath the card.  */
+
+}
+
+.card-subtitle {
+  font-style: italic;
+  padding-bottom: 15px;
+}
+.form-control {
+  border-radius: 0px;
+}
